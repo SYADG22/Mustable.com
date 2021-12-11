@@ -203,3 +203,8 @@ select{
     border-color: #21272f;
     box-shadow: 0 0 2px #000000;
 }
+
+@media-max(720px)
+{
+font-size:100px;
+}
