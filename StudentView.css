@@ -204,7 +204,9 @@ select{
     box-shadow: 0 0 2px #000000;
 }
 
-@media-max(720px)
-{
-font-size:100px;
+
+@media (max-width:720px) {
+    .name{
+        font-size: 90px;
+    }
 }
