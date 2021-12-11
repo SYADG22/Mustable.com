@@ -209,4 +209,9 @@ select{
     .name{
         font-size: 90px;
     }
+
+
+.label{
+font-size:70px;
+}
 }
